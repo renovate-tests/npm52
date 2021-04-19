@@ -3,6 +3,6 @@
   "extends": [
     "config:base"
   ],
-  "stabilityDays": 5,
+  "stabilityDays": 25,
   "internalChecksFilter": "strict"
 }
