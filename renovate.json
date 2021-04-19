@@ -4,5 +4,5 @@
     "config:base"
   ],
   "stabilityDays": 25,
-  "internalChecksFilter": "flexible"
+  "internalChecksFilter": "strict"
 }
