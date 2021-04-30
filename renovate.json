@@ -4,6 +4,6 @@
     "config:base"
   ],
   "dependencyDashboard": true,
-  "stabilityDays": 25,
+  "stabilityDays": 5,
   "internalChecksFilter": "strict"
 }
